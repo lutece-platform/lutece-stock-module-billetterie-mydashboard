@@ -11,7 +11,7 @@
 	<artifactId>module-billetterie-mydashboard</artifactId>
 	<packaging>lutece-plugin</packaging>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Lutece stock billetterie module</name>
+	<name>Lutece stock billetterie mydashboard module</name>
 	
 	<repositories>
 		<repository>
