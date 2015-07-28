@@ -40,7 +40,7 @@
 	<properties>
 		<componentName>billetterie-mydashboard</componentName>
 		<jiraProjectName>BILLMYDASH</jiraProjectName>
-		<jiraComponentId></jiraComponentId>
+		<jiraComponentId/>
 	</properties>
 	
 	<scm>
