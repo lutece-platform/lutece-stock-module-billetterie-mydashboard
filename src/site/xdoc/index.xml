@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Plugin</title>
+    </properties>
+    <body>
+        <section name="Module billetterie mydashboard">
+            <subsection name="Introduction">
+                The purpose of this module is to integrate mydashboard module to billetterie module.
+            </subsection>
+        </section>
+    </body>
+</document>
